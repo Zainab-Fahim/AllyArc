@@ -1,0 +1,13 @@
+setup.py
+allyarcWebScrape/__init__.py
+allyarcWebScrape/items.py
+allyarcWebScrape/middlewares.py
+allyarcWebScrape/pipelines.py
+allyarcWebScrape/settings.py
+allyarcWebScrape/spiders/__init__.py
+allyarcWebScrape/spiders/example.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
