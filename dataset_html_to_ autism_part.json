@@ -1,0 +1,396 @@
+[
+  {
+    "text": "/n<main class='main-content container'>/n  <div>/n    <div id='block-particle-content' data-block-plugin-id='system_main_block'>/n      <div class='resources-page'>/n        <div class='resources-page__inner'>/n          <div class='resources-page__left'>/n            <a class='breadcrumb' href='#'>back</a>/n            <h2 class='resources-page__title '>School Community Tool Kit</h2>/n            <div class='basic-block'>/n              <div><p>This kit provides helpful information about students with autism to promote understanding and acceptance at school. It includes tools and strategies to increase learning for all members of the school community.</p>/n              <h3>The School Community Tool Kit is broken down into sections:</h3>/n",
+    "spans": [
+      {
+        "start": 292,
+        "end": 341,
+        "label": 1
+      }
+    ]
+
+  },
+  {
+    "text": "              <ul><li><strong>About the School Community Tool Kit</strong>/n                <ul>/n                  <li>Information about the resources included, a section on how to use the tool kit, a note to families and caregivers, an 'About Me' profile form, and more.</li>/n                </ul>/n              </li>/n              <li><strong>About Autism</strong>/n                <ul><li>In addition to general information about autism, this section includes information about:</li>/n                  <li>Social symptoms</li>/n                  <li>Physical and medical issues</li>/n                  <li>Additional challenges</li>/n                  <li>Unique abilities that may accompany autism</li>/n                </ul>/n              </li>/n",
+    "spans": [
+      {
+        "start": 261,
+        "end": 541,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "              <li><strong>The School Community</strong>/n                <ul>/n                  <li>Specific resources and information for:</li>/n                  <li>Classmates</li>/n                  <li>Teachers</li>/n                  <li>School administrators</li>/n                  <li>Paraprofessionals</li>/n                  <li>Bus drivers/transportation supervisors</li>/n                  <li>Custodial staff</li>/n                  <li>Lunch and recess aides</li>/n                  <li>Office staff</li>/n                  <li>Peers</li>/n                  <li>Nurses</li>/n                  <li>Security officers</li>/n                </ul>/n              </li>/n              <li><strong>Educating Students with Autism</strong>/n                <ul>/n",
+    "spans":  [
+      {
+        "start": 56,
+        "end": 88,
+        "label": 1
+      },
+      {
+        "start": 224,
+        "end": 270,
+        "label": 1
+      },
+      {
+        "start": 346,
+        "end": 377,
+        "label": 1
+      },
+      {
+        "start": 307,
+        "end": 331,
+        "label": 1
+      },
+      {
+        "start": 382,
+        "end": 421,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "                  <li>Topics include:</li>/n                  <li>The rights of students with autism</li>/n                  <li>Instructional methods in teaching students</li>/n                  <li>Assistive technologies</li>/n                  <li>Therapies used</li>/n                  <li>Ideas for a team approach</li>/n                </ul>/n              </li>/n              <li><strong>Supporting Learning in the Student with Autism</strong>/n                <ul>/n                  <li>Topics include:</li>/n                  <li>Supporting communication</li>/n                  <li>Organizational and sensory needs</li>/n                  <li>Improving social interaction and development</li>/n                  <li>Ideas for preventing behavior</li>/n                </ul>/n              </li>/n",
+    "spans":  [
+      {
+        "start": 171,
+        "end": 341,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "              <li><strong>Web, Print and Video Resources</strong>/n                <ul>/n                  <li>A list of various resources for all members of the school community.</li>/n                </ul>/n              </li>/n              <li><strong>Appendix</strong>/n                <ul>/n                  <li>Insights, strategies, assessments, handbooks, and lots more!</li>/n                </ul>/n              </li>/n            </ul>/n            <p><em>This tool kit is </em><em>not intended to be a curriculum for special education for students on the autism spectrum, but rather a support for the general education and administrative school staff who interact with students with autism in various capacities. However, it is envisioned that this tool kit will provide valuable information and resources that can be employed by special education and administrative staff in their efforts to plan for and support students in general education environments and involvement in the school community as a whole.</em></p>/n",
+    "spans":  [
+      {
+        "start": 717,
+        "end": 845,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text" : "            <p>/n              <strong><a href='https://www.autismspeaks.org/sites/default/files/school-community-spanish.pdf'>Haga clic aquí para acceder este recurso en español</a>.</strong>/n            </p>/n          </div>/n        </div>/n        <h3 class='h4'>Complete the form below to access the Tool Kit</h3>/n      </div>/n      </div>/n    </div>/n  </div>/n</main>/n",
+    "spans" : []
+  },
+  {
+    "text": "<main class=\"main-content container\">\n  <div>\n      <div data-drupal-messages-fallback class=\"hidden\"></div>\n  </div>",
+    "spans": []
+  },
+  {
+    "text": "<div>\n      <div id=\"block-particle-content\" data-block-plugin-id=\"system_main_block\">\n          <div class=\"article-page\">\n              <div class=\"article-page__inner\">\n                  <h1>\n                      <span>In Our Own Words: Embracing empathy and individuality to overcome bullying</span>\n                  </h1>",
+    "spans": []
+  },
+  {
+    "text": "<div>\n                      <p>Every person is unique, but sometimes our differences are not understood or accepted by others. A lack of empathy and understanding can lead to emotional or physical bullying that can be extremely damaging to an individual\u2019s mental health and well-being. This is especially true for people on the spectrum\u2014<a href=\"https://jamanetwork.com/journals/jamapediatrics/fullarticle/2792743\">over 60% of autistic children and young adults experience bullying</a>. Research shows that high school students, school-age children with special healthcare needs and those from disadvantaged neighborhoods are at highest risk.</p>",
+    "spans": [
+      {
+        "start": 287,
+        "end": 395,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "<p>These alarming statistics reaffirm the importance of coming together as a community to understand, include and support people with autism and all disabilities.</p>",
+    "spans": [
+      {
+        "start": 81,
+        "end": 106,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "<h3>Halle shares how her autism diagnosis as a teenager helped her find her power</h3>\n                      <p>My name is Halle. I am a 16-year-old female on the autism spectrum.</p>",
+    "spans": [
+      {
+        "start": 0,
+        "end": 59,
+        "label": 1
+      },
+      {
+        "start": 90,
+        "end": 128,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "<div class='article-section'><p>Autism Spectrum Disorder (ASD) affects communication and behavior. It encompasses a broad range of conditions characterized by challenges with social skills, repetitive behaviors, and speech.</p><p>Early diagnosis and intervention are crucial for improving learning, communication, and social skills in autistic individuals.</p></div>",
+    "spans": [
+      {
+        "start": 37,
+        "end": 219,
+        "label": 1
+      },
+      {
+        "start": 223,
+        "end": 324,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "<div class='news-article'><p>Latest study finds that integrating sensory-based therapy with traditional treatments can significantly benefit children with autism, enhancing their sensory experience and social engagement.</p></div>",
+    "spans": [
+      {
+        "start": 25,
+        "end": 185,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "<div class='blog-post'><p>Understanding the world of autism: Parents and educators share their experiences and challenges in raising and teaching children who are on the autism spectrum.</p></div>",
+    "spans": [
+      {
+        "start": 26,
+        "end": 167,
+        "label": 1
+      }
+    ]
+  },
+  {
+    "text": "<div class='resource-page'><p>Discover a range of educational tools and programs designed to support the learning and development of students with autism. These resources offer strategies for inclusive education and social integration.</p></div>",
+    "spans": [
+      {
+        "start": 12,
+        "end": 174,
+        "label": 1
+      }
+    ]
+  },
+    {
+    "text": "<div class='event-announcement'><p>Join our upcoming webinar on autism awareness. Experts will discuss the latest research, share insights, and provide guidance on how to create supportive environments for individuals with autism.</p></div>",
+    "spans": [
+      {
+        "start": 23,
+        "end": 207,
+        "label": 1
+      }
+    ]
+  },
+    {
+      "text": "<div class='event'><h5>Autism Awareness Week</h5><p>Join us for a week-long event to raise awareness about autism. Activities include workshops, seminars, and interactive sessions aimed at understanding and supporting individuals with autism.</p></div>",
+      "spans": [
+        {
+          "start": 23,
+          "end": 242,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='article'><h2>Understanding Autism: A Comprehensive Guide</h2><p>Autism, or autism spectrum disorder (ASD), refers to a range of conditions characterized by challenges with social skills, repetitive behaviors, speech and nonverbal communication. We now know that there is not one autism but many subtypes, and each person with autism can have unique strengths and challenges.</p></div>",
+      "spans": [
+        {
+          "start": 39,
+          "end": 386,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 5</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 252,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 6</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 252,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 8</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 252,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 10</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='blog-post'><h4>Personal Story: Living with Autism</h4><p>Read about John's journey with autism. Discover how he overcomes daily challenges and find out about his unique talents and abilities that make him special.</p></div>",
+      "spans": [
+        {
+          "start": 55,
+          "end": 225,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 15</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 21</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 22</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='resource'><h6>Educational Resources for Autism</h6><p>Explore our curated list of resources for educators and parents. These materials provide valuable information on teaching strategies and support mechanisms for children with autism.</p></div>",
+      "spans": [
+        {
+          "start": 52,
+          "end": 247,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 31</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 42</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 43</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 57</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 68</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 75</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 79</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 85</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 87</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='news'><h3>Latest Autism Research 94</h3><p>New research on autism has revealed significant insights into the genetic factors contributing to the autism spectrum disorder. This breakthrough can lead to more effective treatments and therapies.</p></div>",
+      "spans": [
+        {
+          "start": 29,
+          "end": 253,
+          "label": 1
+        }
+      ]
+    },
+    {
+      "text": "<div class='resource'><h6>Educational Resources for Autism</h6><p>Explore our curated list of resources for educators and parents. These materials provide valuable information on teaching strategies and support mechanisms for children with autism.</p></div>",
+      "spans": [
+        {
+          "start": 52,
+          "end": 247,
+          "label": 1
+        }
+      ]
+    }
+]  
+
