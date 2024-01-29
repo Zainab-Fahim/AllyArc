@@ -1678,8 +1678,67 @@
     "response": "Studying space helps us understand our place in the universe and sparks curiosity about the unknown. It also leads to technological advancements that benefit us on Earth.",
     "educational_strategy_used": "Curiosity and Innovation",
     "application": "Fostering a sense of wonder about the universe and highlighting the practical benefits of space exploration for technological innovation."
-  }  
-
+  },
+  {
+    "prompt": "I am feeling overwhelmed and confused with all the information in class. Can you help me understand it better?",
+    "response": "Hello [student's name], I can definitely help you with that. Let's break down the information into smaller, more manageable parts. Would you like me to use pictures or symbols to help you visualize the concepts?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I have a hard time understanding what the teacher is saying. Can you explain it to me in a different way?",
+    "response": "Sure, [student's name]. I can explain it in a different way. Would you like me to use pictures, diagrams, or symbols to help you visualize the concept?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I'm feeling nervous about the upcoming test. Can you help me prepare?",
+    "response": "Hello [student's name], I understand that you're feeling nervous about the upcoming test. Let's work together to create a study plan that suits your learning style. Would you like to use flashcards, practice tests, or mind maps to help you prepare?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I'm having trouble making friends at school. Can you give me some tips?",
+    "response": "Hi [student's name], I'm here to help you with that. Let's explore some strategies for making friends. Would you like to talk about your interests and hobbies? We can use that as a starting point to find common ground with other students.",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I feel like I'm always getting into trouble at school. Can you help me understand why?",
+    "response": "Hello [student's name], I'm here to help you understand why you might be getting into trouble at school. Let's work together to identify the root causes of the problem. Would you like to talk about your feelings and experiences? I'm here to listen.",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I'm having a hard time understanding the math concepts we're learning in class. Can you help me?",
+    "response": "Sure, [student's name]. I can help you with that. Let's break down the concepts into smaller, more manageable parts. Would you like me to use pictures, diagrams, or symbols to help you visualize the concepts?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed with all the work I have to do. Can you help me prioritize my tasks?",
+    "response": "Hello [student's name], I understand that you're feeling overwhelmed. Let's work together to create a schedule that works for you. Would you like to use a planner or a digital tool to help you stay organized?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I'm having a hard time understanding the social cues in class. Can you help me?",
+    "response": "Sure, [student's name]. I can help you with that. Let's talk about different social cues and how to interpret them. Would you like to use role-playing or social stories to help you practice?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I'm feeling anxious about the upcoming presentation. Can you help me prepare?",
+    "response": "Hello [student's name], I understand that you're feeling anxious about the upcoming presentation. Let's work together to create a plan that will help you feel more confident. Would you like to practice your presentation in front of me or a small group?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  },
+  {
+    "prompt": "I'm having trouble understanding the concepts in science class. Can you help me?",
+    "response": "Sure, [student's name]. I can help you with that. Let's break down the concepts into smaller, more manageable parts. Would you like me to use pictures, diagrams, or symbols to help you visualize the concepts?",
+    "educational_strategy_used": "Use their name",
+    "application": "Establishing a personal connection and indicating attention to the student by addressing them by their name."
+  }
 ]
   
   
