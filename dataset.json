@@ -4518,6 +4518,119 @@
     "response": "Many schools offer resources such as workshops, counseling services, and support groups to help students develop self-advocacy skills. Online resources, including tutorials and guides, can also be valuable for learning how to effectively communicate your needs.",
     "educational_strategy_used": "Self-Advocacy Resource Promotion",
     "application": "Schools can compile and promote a list of resources for learning self-advocacy, including in-school programs and online materials. Encouraging students to utilize these resources supports their development of critical life skills."
+  },
+  {
+  "prompt": "I'm feeling overwhelmed. There's too much to do.",
+  "response": "I understand that you're feeling overwhelmed. It can be tough when there's a lot to do. Let's take a deep breath together and see if we can break it down into smaller steps. What's the most important thing you need to do right now?",
+  "educational_strategy_used": "Saying less and saying it slowly",
+  "application": "The response is short and to the point, and it breaks down the task into smaller steps. This can help to reduce feelings of overwhelm."
+  },
+  {
+    "prompt": "I have a question about math.",
+    "response": "Sure, I'm happy to help. What's your question?",
+    "educational_strategy_used": "Using specific key words",
+    "application": "The response repeats and stresses the key word question' to help the autistic person focus on the important information."
+  },
+  {
+    "prompt": "I'm not sure what to do next.",
+    "response": "Let's take a look at your schedule together. Can you show me where you're stuck?",
+    "educational_strategy_used": "Using visual supports",
+    "application": "The response suggests using a visual support, such as a schedule, to help the autistic person understand what to do next."
+  },
+  {
+    "prompt": "I'm feeling anxious about my social skills.",
+    "response": "I understand that you're feeling anxious about your social skills. It's important to remember that everyone is different, and that's okay. We can work together to find strategies that can help you feel more comfortable in social situations.",
+    "educational_strategy_used": "Using their name",
+    "application": "The response uses the autistic person's name to engage their attention and make it more likely that they will listen to what you have to say."
+  },
+  {
+    "prompt": "I want to make new friends.",
+    "response": "That's great! Making new friends can be a lot of fun. What are some things that you like to do? We can try to find some activities where you can meet people who share your interests.",
+    "educational_strategy_used": "Using their hobbies and interests",
+    "application": "The response uses the autistic person's hobbies and interests to engage them in the conversation and make it more likely that they will want to participate."
+  },
+  {
+    "prompt": "I'm having trouble understanding what my teacher is saying.",
+    "response": "I'm sorry to hear that. Let's try to figure out what's going on. Can you tell me what your teacher is saying that you're having trouble with?",
+    "educational_strategy_used": "Making sure they are paying attention",
+    "application": "The response checks to make sure that the autistic person is paying attention before continuing the conversation."
+  },
+  {
+    "prompt": "I'm feeling frustrated because I can't do something.",
+    "response": "It's okay to feel frustrated when you can't do something. Everyone gets frustrated sometimes. Let's try to figure out what's making you frustrated and see if we can find a way to help you.",
+    "educational_strategy_used": "Using a behavior diary",
+    "application": "The response suggests using a behavior diary to help the autistic person identify the triggers for their frustration and to develop strategies to help them manage their emotions."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed because there's too much noise.",
+    "response": "I understand that you're feeling overwhelmed by the noise. Let's try to find a quieter place where we can talk.",
+    "educational_strategy_used": "Avoiding open-ended questions",
+    "application": "The response avoids asking an open-ended question, which can be overwhelming for autistic people."
+  },
+  {
+    "prompt": "I'm feeling anxious about a test.",
+    "response": "It's normal to feel anxious about a test. Let's go over the material together and see if we can identify any areas where you need more support.",
+    "educational_strategy_used": "Being clear",
+    "application": "The response avoids using figurative language, such as 'butterflies in your stomach', which can be confusing for autistic people."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed by my homework.",
+    "response": "I understand that you're feeling overwhelmed by your homework. Let's break it down into smaller tasks and see if that helps.",
+    "educational_strategy_used": "Pausing between words and phrases",
+    "application": "The response pauses between words and phrases to give the autistic person time to process what is being said."
+  },
+  {
+    "prompt": "I want to learn more about dinosaurs.",
+    "response": "That's great! Dinosaurs are fascinating creatures. Let's see if we can find some books or videos about dinosaurs that you can check out.",
+    "educational_strategy_used": "Using their hobbies and interests",
+    "application": "The response uses the autistic person's interest in dinosaurs to engage them in the conversation and make it more likely that they will want to participate."
+  },
+  {
+    "prompt": "I'm feeling anxious about a social event.",
+    "response": "It's okay to feel anxious about social events. Let's talk about some strategies that can help you feel more comfortable.",
+    "educational_strategy_used": "Using their name",
+    "application": "The response uses the autistic person's name to engage their attention and make it more likely that they will listen to what you have to say."
+  },
+  {
+    "prompt": "I'm having trouble understanding what my teacher is saying.",
+    "response": "I'm sorry to hear that. Let's try to figure out what's going on. Can you tell me what your teacher is saying that you're having trouble with?",
+    "educational_strategy_used": "Making sure they are paying attention",
+    "application": "The response checks to make sure that the autistic person is paying attention before continuing the conversation."
+  },
+  {
+    "prompt": "I'm feeling frustrated because I can't do something.",
+    "response": "It's okay to feel frustrated when you can't do something. Everyone gets frustrated sometimes. Let's try to figure out what's making you frustrated and see if we can find a way to help you.",
+    "educational_strategy_used": "Using a behavior diary",
+    "application": "The response suggests using a behavior diary to help the autistic person identify the triggers for their frustration and to develop strategies to help them manage their emotions."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed because there's too much noise.",
+    "response": "I understand that you're feeling overwhelmed by the noise. Let's try to find a quieter place where we can talk.",
+    "educational_strategy_used": "Avoiding open-ended questions",
+    "application": "The response avoids asking an open-ended question, which can be overwhelming for autistic people."
+  },
+  {
+    "prompt": "I'm feeling anxious about a test.",
+    "response": "It's normal to feel anxious about a test. Let's go over the material together and see if we can identify any areas where you need more support.",
+    "educational_strategy_used": "Being clear",
+    "application": "The response avoids using figurative language, such as "butterflies in your stomach," which can be confusing for autistic people."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed by my homework.",
+    "response": "I understand that you're feeling overwhelmed by your homework. Let's break it down into smaller tasks and see if that helps.",
+    "educational_strategy_used": "Pausing between words and phrases",
+    "application": "The response pauses between words and phrases to give the autistic person time to process what is being said."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed because there's too much to do.",
+    "response": "I understand that you're feeling overwhelmed. It can be tough when there's a lot to do. Let's take a deep breath together and see if we can break it down into smaller steps. What's the most important thing you need to do right now?",
+    "educational_strategy_used": "Saying less and saying it slowly",
+    "application": "The response is short and to the point, and it breaks down the task into smaller steps. This can help to reduce feelings of overwhelm."
+  },
+  {
+    "prompt": "I have a question about math.",
+    "response": "Sure, I'm happy to help. What's your question?",
+    "educational_strategy_used": "Using specific key words",
+    "application": "The response repeats and stresses the key word "question" to help the autistic person focus on the important information."
   }
-
 ]
