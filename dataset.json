@@ -4613,7 +4613,7 @@
     "prompt": "I'm feeling anxious about a test.",
     "response": "It's normal to feel anxious about a test. Let's go over the material together and see if we can identify any areas where you need more support.",
     "educational_strategy_used": "Being clear",
-    "application": "The response avoids using figurative language, such as "butterflies in your stomach," which can be confusing for autistic people."
+    "application": "The response avoids using figurative language, such as 'butterflies in your stomach', which can be confusing for autistic people."
   },
   {
     "prompt": "I'm feeling overwhelmed by my homework.",
@@ -4631,6 +4631,66 @@
     "prompt": "I have a question about math.",
     "response": "Sure, I'm happy to help. What's your question?",
     "educational_strategy_used": "Using specific key words",
-    "application": "The response repeats and stresses the key word "question" to help the autistic person focus on the important information."
+    "application": "The response repeats and stresses the key word 'question' to help the autistic person focus on the important information."
+  },
+  {
+    "prompt": "I want to make sure my voice is heard in decisions about my education. What can I do?",
+    "response": "Using our student voice toolkit, you can share your thoughts and ideas with your teachers and other school staff. This toolkit has different tools to help you communicate your needs and preferences. We can work together to find the best way for you to share your voice.",
+    "educational_strategy_used": "Establish a student voice toolkit to facilitate student participation in decision-making.",
+    "application": "Empowering students with disabilities, including autistic students, to express their perspectives and participate in decisions about their education."
+  },
+  {
+    "prompt": "I'm having trouble understanding what's expected of me in class. Can you help?",
+    "response": "I can certainly help you with that. Together, we can develop clear and specific expectations for your work and behavior in class. This will help you understand what is expected of you and how to succeed in your studies.",
+    "educational_strategy_used": "Establish a student voice toolkit to facilitate student participation in decision-making.",
+    "application": "Empowering students with disabilities, including autistic students, to express their perspectives and participate in decisions about their education."
+  },
+  {
+    "prompt": "I'm not sure how to make friends at school. Do you have any suggestions?",
+    "response": "Making friends can be challenging, but I have some ideas that might help. We can work together to identify your strengths and interests and explore opportunities for you to connect with other students who share similar interests.",
+    "educational_strategy_used": "Provide targeted social and emotional support through the Autism-friendly Navigator program.",
+    "application": "Partnering with trained Navigator service providers who have expertise in supporting autistic students."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed and stressed about school. What can I do?",
+    "response": "It's understandable to feel overwhelmed at times. I'm here to support you. We can develop coping mechanisms and strategies together to help you manage stress and anxiety. This may involve identifying your triggers, practicing relaxation techniques, or adjusting your schedule.",
+    "educational_strategy_used": "Provide targeted social and emotional support through the Autism-friendly Navigator program.",
+    "application": "Partnering with trained Navigator service providers who have expertise in supporting autistic students."
+  },
+  {
+    "prompt": "I'm interested in learning more about autism. Are there any resources you can recommend?",
+    "response": "Absolutely! I can provide you with a variety of resources to help you learn more about autism. These resources can include books, articles, websites, and organizations dedicated to supporting autistic individuals and their families.",
+    "educational_strategy_used": "Establish strong partnerships with autistic community organizations and advocacy groups.",
+    "application": "Collaborating with local or regional organizations that provide support, resources, and networking opportunities for autistic individuals and their families."
+  },
+  {
+    "prompt": "I want to get involved in the autistic community. How can I do that?",
+    "response": "There are several ways for you to get involved in the autistic community. You can connect with local support groups, attend community events, or volunteer your time to organizations that support autistic individuals.",
+    "educational_strategy_used": "Establish strong partnerships with autistic community organizations and advocacy groups.",
+    "application": "Collaborating with local or regional organizations that provide support, resources, and networking opportunities for autistic individuals and their families."
+  },
+  {
+    "prompt": "I'm not sure what career path to choose. Can you help me explore my options?",
+    "response": "Exploring career paths can be exciting! We can work together to identify your interests, skills, and strengths. By researching different occupations and connecting with professionals in various fields, we can create a plan to help you make an informed decision about your future.",
+    "educational_strategy_used": "Encourage collaborative planning among students, families, and professionals.",
+    "application": "Facilitating regular meetings or discussions to gather input from students, families, and relevant experts on the student's educational needs, goals, and support strategies."
+  },
+  {
+    "prompt": "I'm struggling with a particular subject in school. What can I do to improve?",
+    "response": "It's great that you've identified an area where you need support. We can develop strategies together to help you improve your understanding of the subject. This may involve breaking down complex concepts, providing additional practice, or seeking support from a tutor.",
+    "educational_strategy_used": "Encourage collaborative planning among students, families, and professionals.",
+    "application": "Facilitating regular meetings or discussions to gather input from students, families, and relevant experts on the student's educational needs, goals, and support strategies."
+  },
+  {
+    "prompt": "I'm having trouble managing my time and staying organized. Can you give me some tips?",
+    "response": "Time management and organization are important skills for success. I can share strategies to help you plan your schedule, prioritize tasks, and create a system that works for you. Together, we can develop routines and habits that will help you stay on track and achieve your goals.",
+    "educational_strategy_used": "Implement school-wide Positive Behavior Support (SWPBS) programs.",
+    "application": "Establishing a framework for proactively promoting positive behavior, preventing problem behaviors, and addressing challenging behaviors in a consistent and supportive manner."
+  },
+  {
+    "prompt": "I'm feeling anxious about an upcoming test. What can I do to prepare and reduce my anxiety?",
+    "response": "Preparing for tests can cause anxiety, but there are techniques to help you manage your stress. We can develop a study plan, practice relaxation exercises, and explore strategies to improve your focus and concentration. By working together, we can build your confidence and help you succeed in your exams.",
+    "educational_strategy_used": "Implement school-wide Positive Behavior Support (SWPBS) programs.",
+    "application": "Establishing a framework for proactively promoting positive behavior, preventing problem behaviors, and addressing challenging behaviors in a consistent and supportive manner."
   }
 ]
