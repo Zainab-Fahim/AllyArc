@@ -3591,7 +3591,6 @@
       "educational_strategy_used": "Real-World Connections",
       "application": "Linking scientific concepts to everyday experiences, demonstrating the practical relevance of learning about matter."
   },
- 
   {
     "prompt": "How can I remember the steps of the scientific method?",
     "response": "Let's create a visual chart together, illustrating each step of the scientific method. We can use symbols or pictures to represent each step, helping you visualize and remember the sequence more easily.",
@@ -3832,7 +3831,6 @@
     "educational_strategy_used": "Environmental Education",
     "application": "Learning about renewable energy through outdoor activities and projects, like building a simple solar oven."
   },
-  [
   {
     "prompt": "How do fossil fuels work and what's bad about using them?",
     "response": "Fossil fuels, like coal and oil, give us a lot of energy when we burn them, but they also make the air dirty and can run out one day because they take so long to form.",
@@ -4073,7 +4071,6 @@
     "educational_strategy_used": "Time Capsule Project",
     "application": "Building time capsules to reflect on the longevity of solar energy, encouraging forward-thinking and long-term environmental stewardship."
   },
-  [
   {
     "prompt": "Why do some people say burning oil and coal is bad?",
     "response": "We can look at pictures and stories of places with lots of pollution and compare them to cleaner energy places. This shows us why using too much oil and coal can harm our planet.",
@@ -4278,7 +4275,6 @@
     "educational_strategy_used": "Communicating personal learning preferences",
     "application": "Prepare a brief explanation of your learning style, including any specific accommodations or strategies that assist your learning. Share this with your teachers and peers to help them understand how to support you best."
   },
-
   {
     "prompt": "How do I tell my teacher what I need to learn better?",
     "response": "Communicate openly and clearly with your teacher about your specific needs. It can be helpful to request a private meeting to discuss your learning preferences and any challenges you're facing. Be specific about what helps you learn better, whether it's more visual aids, extra time to process information, or quieter spaces for work.",
@@ -4693,7 +4689,7 @@
     "educational_strategy_used": "Implement school-wide Positive Behavior Support (SWPBS) programs.",
     "application": "Establishing a framework for proactively promoting positive behavior, preventing problem behaviors, and addressing challenging behaviors in a consistent and supportive manner."
   },
-   {
+  {
     "prompt": "I'm feeling overwhelmed by all the information in this lesson. Can you break it down into smaller chunks for me?",
     "response": "I can certainly help you with that. Let's use a visual chart to break down the lesson into smaller, more manageable parts. This will help you visualize the information and make it easier to understand.",
     "educational_strategy_used": "Visual supports",
@@ -4932,5 +4928,239 @@
     "response": "That's a great question! Let's explore some resources together that can provide you with information about different career options for people with autism. We can also discuss your interests and skills to identify potential career paths that align with your strengths. This will help you make informed decisions about your future.",
     "educational_strategy_used": "Person-Centered Planning",
     "application": "Develop individualized education plans (IEPs) that cater to the specific needs and goals of each autistic student."
+  },
+  {
+   "prompt": "I can't seem to sit still in class. How can I manage my energy levels?",
+   "response": "Your energy levels might be affected by the environment around you. Let's try creating a personalized sensory diet that identifies your sensory needs. We can also adjust the classroom environment to make it more comfortable and calming for you. Additionally, having a designated quiet area where you can retreat to when overwhelmed might help.",
+   "educational_strategy_used": "Avoid creating situations of sensory overload.",
+   "application": "To minimize trigger situations, create a personalized sensory diet to identify and accommodate sensory needs. Adjust the classroom environment (e.g. lighting, noise levels, visual distractions) to create a comfortable and calming atmosphere. Provide designated quiet areas for students to retreat to when overwhelmed."
+  },
+  {
+   "prompt": "My classmates make a lot of noise and it's making it hard for me to focus. What can I do?",
+   "response": "I understand that loud noises can be distracting. Let's explore some strategies to help you focus in noisy environments. We can incorporate visual aids like charts or diagrams into our lessons to enhance your understanding. Additionally, using gestures, body language, and facial expressions can reinforce verbal instructions.",
+   "educational_strategy_used": "Use visuals to support learning and communication.",
+   "application": "Incorporate visual aids such as charts, diagrams, and pictures into lessons to enhance understanding. Use gestures, body language, and facial expressions to reinforce verbal instructions. Provide visual schedules and routines to establish predictability and reduce anxiety."
+  },
+  {
+   "prompt": "I'm feeling anxious about a big test coming up. What can I do to prepare?",
+   "response": "Feeling anxious before a test is understandable. Let's work together to create a structured study plan that will help you feel more prepared and confident. By establishing a clear routine and minimizing unexpected changes, we can create a sense of order and predictability.",
+   "educational_strategy_used": "Provide a structured and predictable classroom environment.",
+   "application": "Establish clear expectations and routines to create a sense of order and predictability. Post daily schedules and use visual cues to indicate transitions. Minimize unexpected changes and provide advance notice for any alterations to the routine."
+  },
+  {
+   "prompt": "I'm having trouble understanding the lesson. Can you explain it differently?",
+   "response": "I'm happy to help you understand the lesson in a way that makes sense for you. Let's break down the concept into smaller, more manageable units and avoid using abstract language or idioms. We can use literal explanations and examples to ensure your comprehension.",
+   "educational_strategy_used": "Use concrete language and avoid figurative expressions.",
+   "application": "Avoid using abstract language or idioms. Break down complex concepts into smaller, manageable units. Provide literal explanations and examples to ensure comprehension."
+  },
+  {
+   "prompt": "I'm not sure how to interact with my classmates during group work. Can you help me?",
+   "response": "Interacting with classmates during group work can be challenging. Let's practice some social skills that will help you feel more confident. We can role-play different scenarios and use social stories to demonstrate and practice turn-taking, active listening, and appropriate body language.",
+   "educational_strategy_used": "Directly teach and reinforce social skills.",
+   "application": "Explicitly teach social skills such as turn-taking, active listening, and appropriate body language. Use role-playing and social stories to demonstrate and practice these skills. Provide positive reinforcement and feedback for desired social behaviors."
+  },
+  {
+   "prompt": "I feel like my strengths aren't being recognized in class. What can I do?",
+   "response": "It's important to celebrate your unique strengths and needs. Let's work together to identify your strengths and find ways to highlight them in the classroom. By tailoring our teaching methods and accommodations to suit your learning style, we can create an inclusive environment where you feel valued.",
+   "educational_strategy_used": "Treat all students as individuals with unique strengths and needs.",
+   "application": "Recognize and respect individual differences. Tailor teaching methods and accommodations to suit each student's specific needs and learning style. Celebrate diversity and foster an inclusive learning environment where all students feel valued."
+  },
+  {
+   "prompt": "I have trouble understanding what my teacher is saying. How can I improve my listening skills?",
+   "response": "Improving your listening skills can help you better understand your teacher's instructions. Let's try using visual aids like charts or diagrams to enhance your understanding. Additionally, incorporating gestures, body language, and facial expressions can reinforce verbal instructions.",
+   "educational_strategy_used": "Use visuals to support learning and communication.",
+   "application": "Incorporate visual aids such as charts, diagrams, and pictures into lessons to enhance understanding. Use gestures, body language, and facial expressions to reinforce verbal instructions. Provide visual schedules and routines to establish predictability and reduce anxiety."
+  },
+  {
+   "prompt": "I get nervous when it's time to answer questions in class. How can I overcome this fear?",
+   "response": "Feeling nervous when answering questions in class is common. Let's practice some strategies to help you feel more confident. We can create a supportive environment where you feel comfortable taking risks and making mistakes. Positive reinforcement and feedback can also help boost your self-esteem.",
+   "educational_strategy_used": "Directly teach and reinforce social skills.",
+   "application": "Explicitly teach social skills such as turn-taking, active listening, and appropriate body language. Use role-playing and social stories to demonstrate and practice these skills. Provide positive reinforcement and feedback for desired social behaviors."
+  },
+  {
+   "prompt": "The classroom is too loud and I can't focus. What can I do?",
+   "response": "A noisy classroom environment can be challenging. Let's explore some strategies to help you focus and minimize distractions. We can create a personalized sensory diet that identifies your sensory needs and adjust the classroom environment to make it more comfortable and calming.",
+   "educational_strategy_used": "Avoid creating situations of sensory overload.",
+   "application": "To minimize trigger situations, create a personalized sensory diet to identify and accommodate sensory needs. Adjust the classroom environment (e.g. lighting, noise levels, visual distractions) to create a comfortable and calming atmosphere. Provide designated quiet areas for students to retreat to when overwhelmed."
+  },
+  {
+   "prompt": "I'm struggling with making friends. How can I improve my social skills?",
+   "response": "Making friends can be challenging, but there are strategies that can help. Let's practice social skills like turn-taking, active listening, and appropriate body language. We can also use role-playing and social stories to demonstrate and practice these skills in different situations.",
+   "educational_strategy_used": "Directly teach and reinforce social skills.",
+   "application": "Explicitly teach social skills such as turn-taking, active listening, and appropriate body language. Use role-playing and social stories to demonstrate and practice these skills. Provide positive reinforcement and feedback for desired social behaviors."
+  },
+  {
+   "prompt": "I don't understand the homework assignment. Can you explain it again?",
+   "response": "It's important to understand your homework assignments. Let's break down the instructions into smaller, more manageable units and avoid using abstract language or idioms. We can use literal explanations and examples to ensure your comprehension.",
+   "educational_strategy_used": "Use concrete language and avoid figurative expressions.",
+   "application": "Avoid using abstract language or idioms. Break down complex concepts into smaller, manageable units. Provide literal explanations and examples to ensure comprehension."
+  },
+  {
+   "prompt": "I'm feeling overwhelmed by the amount of work I have to do. How can I manage my time better?",
+   "response": "Managing your time effectively can help reduce stress and improve your productivity. Let's create a structured schedule that includes breaks and allows for flexibility. By establishing clear expectations and routines, you can create a sense of order and predictability.",
+   "educational_strategy_used": "Provide a structured and predictable classroom environment.",
+   "application": "Establish clear expectations and routines to create a sense of order and predictability. Post daily schedules and use visual cues to indicate transitions. Minimize unexpected changes and provide advance notice for any alterations to the routine."
+  },
+  {
+   "prompt": "I have a test coming up and I'm really anxious. How can I calm down?",
+   "response": "Feeling anxious before a test is common. Let's practice some relaxation techniques that can help you stay calm and focused. We can also create a study plan that will help you feel more prepared and confident. By minimizing unexpected changes and providing advance notice, you can create a sense of order and predictability.",
+   "educational_strategy_used": "Provide a structured and predictable classroom environment.",
+   "application": "Establish clear expectations and routines to create a sense of order and predictability. Post daily schedules and use visual cues to indicate transitions. Minimize unexpected changes and provide advance notice for any alterations to the routine."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed by all the changes in my schedule today. Can you help me understand what to expect?",
+    "response": "Sure, let's create a visual schedule together using pictures or symbols. This will help you see what activities and transitions are planned for the day and make it easier for you to understand what's coming next.",
+    "educational_strategy_used": "Visual Schedules",
+    "application": "Create visual schedules using pictures or symbols to represent activities and transitions throughout the day. This helps autistic students understand what to expect and reduces anxiety about the unknown."
+  },
+  {
+    "prompt": "I'm struggling to stay focused in class. Do you have any suggestions?",
+    "response": "Let's explore some sensory integration activities that can help you regulate your sensory processing and improve your focus and attention.",
+    "educational_strategy_used": "Sensory Integration Activities",
+    "application": "Provide autistic students with opportunities to engage in sensory integration activities that help them regulate their sensory processing and improve their focus and attention."
+  },
+  {
+    "prompt": "I'm having trouble understanding what my teacher is saying. Can you help me?",
+    "response": "I understand that sometimes it can be challenging to understand what others are saying. Let's try using some visual cues or creating a social story to help you better comprehend the information.",
+    "educational_strategy_used": "Social Stories",
+    "application": "Use social stories to teach autistic students about social situations and appropriate behaviors. Social stories can be personalized to address specific challenges or areas where the student needs support."
+  },
+  {
+    "prompt": "I get anxious when I have to go to new places. How can I cope with this?",
+    "response": "It's okay to feel anxious in new situations. Let's create a visual schedule or use positive reinforcement to help you feel more confident and prepared when you have to go to new places.",
+    "educational_strategy_used": "Visual Schedules",
+    "application": "Create visual schedules using pictures or symbols to represent activities and transitions throughout the day. This helps autistic students understand what to expect and reduces anxiety about the unknown."
+  },
+  {
+    "prompt": "I'm having trouble making friends. Can you give me some tips?",
+    "response": "Making friends can be challenging, but I'm here to help. Let's explore some social stories or role-playing activities that can give you strategies for starting conversations and building relationships.",
+    "educational_strategy_used": "Social Stories",
+    "application": "Use social stories to teach autistic students about social situations and appropriate behaviors. Social stories can be personalized to address specific challenges or areas where the student needs support."
+  },
+  {
+    "prompt": "I'm feeling stressed and overwhelmed. What can I do to calm down?",
+    "response": "It's important to find healthy ways to manage stress and anxiety. Let's explore some sensory integration activities or music therapy that can help you relax and feel more centered.",
+    "educational_strategy_used": "Sensory Integration Activities",
+    "application": "Provide autistic students with opportunities to engage in sensory integration activities that help them regulate their sensory processing and improve their focus and attention."
+  },
+  {
+    "prompt": "I'm struggling to understand the math concepts we're learning in class. Can you help me?",
+    "response": "I'm here to support you in your learning journey. Let's break down the math concepts into smaller steps and use visual aids or hands-on activities to make them more accessible.",
+    "educational_strategy_used": "Visual Schedules",
+    "application": "Create visual schedules using pictures or symbols to represent activities and transitions throughout the day. This helps autistic students understand what to expect and reduces anxiety about the unknown."
+  },
+  {
+    "prompt": "I'm feeling frustrated because I can't express myself well. Do you have any suggestions?",
+    "response": "Communication is key, and I'm here to help you find your voice. Let's explore some speech therapy techniques or art therapy activities that can enhance your communication skills and self-expression.",
+    "educational_strategy_used": "Speech Therapy",
+    "application": "Provide autistic students with speech therapy to improve their communication skills. Speech therapy can help students develop verbal language, improve pronunciation, and increase their ability to understand others."
+  },
+  {
+    "prompt": "I'm having trouble with my fine motor skills. Can you help me improve them?",
+    "response": "Developing fine motor skills is essential for daily activities. Let's engage in some occupational therapy exercises or art therapy activities to enhance your coordination and dexterity.",
+    "educational_strategy_used": "Occupational Therapy",
+    "application": "Provide autistic students with occupational therapy to improve their fine motor skills, coordination, and sensory processing. Occupational therapy can help students with activities of daily living, such as eating, dressing, and writing."
+  },
+  {
+    "prompt": "I'm feeling isolated and lonely. How can I connect with others?",
+    "response": "Building social connections is important for well-being. Let's explore some social skills groups or music therapy sessions that can provide opportunities for you to interact with others and build meaningful relationships.",
+    "educational_strategy_used": "Music Therapy",
+    "application": "Use music therapy to help autistic students improve their communication, social skills, and emotional regulation. Music therapy can be used to create a calming environment, facilitate self-expression, and provide opportunities for social interaction."
+  },
+  {
+    "prompt": "I'm struggling with my physical health. Can you help me improve it?",
+    "response": "Maintaining a healthy lifestyle is crucial for overall well-being. Let's incorporate some physical activities or occupational therapy exercises into your routine to enhance your physical health, coordination, and sensory processing.",
+    "educational_strategy_used": "Physical Activity",
+    "application": "Encourage autistic students to participate in physical activity to improve their physical health, coordination, and social skills. Physical activity can also help reduce stress and anxiety."
+  },
+  {
+    "prompt": "I'm having trouble managing my emotions. Can you help me develop coping mechanisms?",
+    "response": "Emotional regulation is an important life skill. Let's explore some mindfulness techniques or art therapy activities that can help you identify, understand, and manage your emotions effectively.",
+    "educational_strategy_used": "Art Therapy",
+    "application": "Use art therapy to help autistic students express themselves, develop their creativity, and improve their communication skills. Art therapy can be used to explore emotions, process experiences, and build self-esteem."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed by all the choices I have. Can you help me make decisions?",
+    "response": "Decision-making can be challenging. Let's create a visual schedule or use positive reinforcement to help you break down choices into smaller steps and make informed decisions.",
+    "educational_strategy_used": "Visual Schedules",
+    "application": "Create visual schedules using pictures or symbols to represent activities and transitions throughout the day. This helps autistic students understand what to expect and reduces anxiety about the unknown."
+  },
+  {
+    "prompt": "I'm struggling with my self-esteem. Can you help me build my confidence?",
+    "response": "Building self-esteem is crucial for personal growth. Let's engage in some positive reinforcement techniques or art therapy activities to help you recognize your strengths, celebrate your accomplishments, and develop a positive self-image.",
+    "educational_strategy_used": "Positive Reinforcement",
+    "application": "Reward autistic students for desired behaviors or progress towards goals. Positive reinforcement can include verbal praise, small treats, or privileges."
+  },
+  {
+    "prompt": "I'm having trouble with my social skills. Can you help me improve them?",
+    "response": "Developing strong social skills is essential for success in various aspects of life. Let's explore some social stories or role-playing activities that can enhance your communication abilities, social interactions, and empathy.",
+    "educational_strategy_used": "Social Stories",
+    "application": "Use social stories to teach autistic students about social situations and appropriate behaviors. Social stories can be personalized to address specific challenges or areas where the student needs support."
+  },
+  {
+    "prompt": "I'm feeling anxious and stressed. Can you help me manage my anxiety?",
+    "response": "Managing anxiety is crucial for overall well-being. Let's incorporate some relaxation techniques or sensory integration activities into your routine to help you reduce stress, regulate your emotions, and promote a sense of calm.",
+    "educational_strategy_used": "Sensory Integration Activities",
+    "application": "Provide autistic students with opportunities to engage in sensory integration activities that help them regulate their sensory processing and improve their focus and attention."
+  },
+    {
+    "prompt": "I'm feeling overwhelmed by all the changes in my schedule today. Can you help me understand what's going to happen?",
+    "response": "I understand that changes in your schedule can be overwhelming. Let's create a visual schedule together to help you see what's coming up. This way, you'll know exactly what to expect and feel more in control.",
+    "educational_strategy_used": "Visual schedules",
+    "application": "Understanding daily routines"
+  },
+  {
+    "prompt": "I'm having trouble understanding what's expected of me in social situations. Can you help me?",
+    "response": "Sure, I can help you with that. Let's create a social story together. We'll go through different social situations and discuss the appropriate behaviors and expectations. This will help you feel more prepared and confident in social interactions.",
+    "educational_strategy_used": "Social stories",
+    "application": "Understanding social cues"
+  },
+  {
+    "prompt": "I'm struggling to stay focused and complete my tasks. Do you have any suggestions?",
+    "response": "I can help you with that. Positive reinforcement is a great strategy for increasing desired behaviors. Let's work together to identify specific behaviors you want to improve, and then we'll create a reward system to motivate you.",
+    "educational_strategy_used": "Positive reinforcement",
+    "application": "Improving focus and task completion"
+  },
+  {
+    "prompt": "I'm having difficulty interacting with my peers. Can you give me some tips?",
+    "response": "I understand that social interactions can be challenging. Applied Behavior Analysis (ABA) can help you learn new social skills and reduce problem behaviors. We can work together to develop a personalized ABA program that meets your specific needs.",
+    "educational_strategy_used": "Applied Behavior Analysis (ABA)",
+    "application": "Developing social skills"
+  },
+  {
+    "prompt": "I'm feeling overwhelmed by sensory input. Do you have any strategies to help me cope?",
+    "response": "Sensory integration therapy can help you process sensory information more effectively. We can explore different activities, such as playing with sand or listening to calming music, to find what works best for you and helps you feel more regulated.",
+    "educational_strategy_used": "Sensory integration therapy",
+    "application": "Managing sensory sensitivities"
+  },
+  {
+    "prompt": "I'm having trouble pronouncing certain words. Can you help me improve my speech?",
+    "response": "I can help you with that. Speech therapy can improve your language skills. We'll work on practicing pronunciation, grammar, and social conversation in a fun and supportive environment.",
+    "educational_strategy_used": "Speech therapy",
+    "application": "Improving speech and language skills"
+  },
+  {
+    "prompt": "I'm struggling to hold a pencil correctly and write legibly. Can you help me improve my fine motor skills?",
+    "response": "Occupational therapy can help you develop your fine motor skills and coordination. We'll engage in activities like handwriting, cutting, and pasting to improve your dexterity and control.",
+    "educational_strategy_used": "Occupational therapy",
+    "application": "Improving fine motor skills"
+  },
+  {
+    "prompt": "I'm having difficulty walking and running smoothly. Do you have any exercises to help me improve my gross motor skills?",
+    "response": "Physical therapy can help you develop your gross motor skills and coordination. We'll work on activities like walking, running, and jumping to improve your balance, strength, and coordination.",
+    "educational_strategy_used": "Physical therapy",
+    "application": "Improving gross motor skills"
+  },
+  {
+    "prompt": "I'm feeling anxious and stressed. Can music help me relax and feel calmer?",
+    "response": "Music therapy can help you develop your social, emotional, and communication skills. We'll explore different music activities, such as singing, playing instruments, and listening to music, to find what works best for you and helps you feel more relaxed and connected.",
+    "educational_strategy_used": "Music therapy",
+    "application": "Reducing anxiety and promoting relaxation"
+  },
+  {
+    "prompt": "I enjoy drawing and painting. Can art help me express myself and connect with others?",
+    "response": "Art therapy can help you express yourself creatively and develop your social and emotional skills. We'll explore different art activities, such as painting, drawing, and sculpting, to help you find your unique voice and connect with others through your creations.",
+    "educational_strategy_used": "Art therapy",
+    "application": "Promoting self-expression and social connection"
   }
 ]
