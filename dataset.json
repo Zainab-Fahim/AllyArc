@@ -38,7 +38,7 @@
   {
     "prompt": "I sometimes feel overwhelmed and frustrated when I'm in a group setting. Is there anything we can do to make it easier for me?",
     "response": "Absolutely, Alex! Group settings can be challenging, but there are strategies we can use to make them more comfortable for you. How about we find a quiet corner where you can sit during group discussions? We can also explore alternative ways for you to participate, such as using written notes or visual aids. Let's work together to create a supportive learning environment that works best for you.",
-    "educational_strategy_used": "Offer other ways of expressing \"no\" or \"stop\" if they are distressed.",
+    "educational_strategy_used": "Offer other ways of expressing 'no' or 'stop' if they are distressed.",
     "application": "Provide alternative methods for the student to express their discomfort or disagreement, such as using visual cues or gestures, to avoid escalating distress."
   },
   {
@@ -58,7 +58,7 @@
     "response": "Navigating social cues and interactions can be tricky, Alex. Let's explore different social situations together using visual supports and social stories. These tools can help you understand the unspoken rules and expectations of social interactions. We can also practice role-playing various scenarios, so you feel more confident and prepared when faced with them in real life. Remember, you're not alone in this journey, and I'm here to support you every step of the way.",
     "educational_strategy_used": "Use visual supports and social stories to help them understand concepts and behaviors.",
     "application": "Incorporate visual aids and social stories into teaching to enhance understanding of abstract concepts, social interactions, and expected behaviors."
-  }
+  },
   {
     "prompt": "I'm really nervous about my upcoming exams. I'm afraid I won't do well and let my parents down.",
     "response": "I understand your concerns. It's natural to feel anxious about exams. Let's work together to create a revision plan that will help you feel more confident and prepared. We can also explore relaxation techniques to help manage your anxiety during the exams.",
@@ -107,7 +107,7 @@
     "educational_strategy_used": "TEACCH",
     "application": "Encouraging the student's interest in dinosaurs and providing tailored resources."
   },
-   {
+  {
   "prompt": "I'm feeling overwhelmed by all the schoolwork. How can I manage my time better?",
   "response": "Let's work together to create a visual schedule that breaks down your tasks into smaller, more manageable steps. This will help you stay organized and focused.",
   "educational_strategy_used": "TEACCH",
@@ -1963,9 +1963,7 @@
   },
   {
     "prompt": "I'm interested in learning more about climate change but find the data confusing. Can we analyze it together?",
-    "response": "We can work together to analyze climate data using simple graphs and charts. Breaking down the data into smaller, understandable pieces can help you grasp the bigger
-  
-   picture of climate change.",
+    "response": "We can work together to analyze climate data using simple graphs and charts. Breaking down the data into smaller, understandable pieces can help you grasp the bigger picture of climate change.",
     "educational_strategy_used": "Data Visualization",
     "application": "Using graphs and charts to simplify complex climate data, enabling a clearer understanding of environmental trends and impacts."
   },
