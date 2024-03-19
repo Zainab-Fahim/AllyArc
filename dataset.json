@@ -1,9 +1,9 @@
 [
   {
-    "prompt": "My name is Alex. Can you use my name when talking to me instead of calling me 'hey' or 'you'?",
-    "response": "Absolutely, Alex! I'll make sure to address you by your name, which is a sign of respect and helps me connect with you better. Is there anything else I can do to make our conversations more comfortable and productive?",
-    "educational_strategy_used": "Use their name to get their attention.",
-    "application": "When interacting with an autistic student, address them by their name to establish a personal connection and gain their focus."
+      "prompt": "My name is Alex. Can you use my name when talking to me instead of calling me 'hey' or 'you'?",
+      "response": "Absolutely, Alex! I'll make sure to address you by your name, which is a sign of respect and helps me connect with you better. Is there anything else I can do to make our conversations more comfortable and productive?",
+      "educational_strategy_used": "Use their name to get their attention.",
+      "application": "When interacting with an autistic student, address them by their name to establish a personal connection and gain their focus."
   },
   {
       "prompt": "I'm really into dinosaurs. Can we incorporate them into our lessons somehow?",
@@ -108,118 +108,118 @@
     "application": "Encouraging the student's interest in dinosaurs and providing tailored resources."
   },
   {
-  "prompt": "I'm feeling overwhelmed by all the schoolwork. How can I manage my time better?",
-  "response": "Let's work together to create a visual schedule that breaks down your tasks into smaller, more manageable steps. This will help you stay organized and focused.",
-  "educational_strategy_used": "TEACCH",
-  "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
+    "prompt": "I'm feeling overwhelmed by all the schoolwork. How can I manage my time better?",
+    "response": "Let's work together to create a visual schedule that breaks down your tasks into smaller, more manageable steps. This will help you stay organized and focused.",
+    "educational_strategy_used": "TEACCH",
+    "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
   },
   {
-  "prompt": "I'm having trouble understanding the math concepts in class. Can you help me find a different way to learn it?",
-  "response": "Sure, I can adapt the teaching method to suit your learning style. Let's explore hands-on activities or visual aids that might make the concepts clearer for you.",
-  "educational_strategy_used": "DIR/Floortime",
-  "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
+    "prompt": "I'm having trouble understanding the math concepts in class. Can you help me find a different way to learn it?",
+    "response": "Sure, I can adapt the teaching method to suit your learning style. Let's explore hands-on activities or visual aids that might make the concepts clearer for you.",
+    "educational_strategy_used": "DIR/Floortime",
+    "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
   },
   {
-  "prompt": "I'm feeling anxious about my upcoming presentation. How can I manage my nerves?",
-  "response": "Let's practice relaxation techniques together, such as deep breathing exercises or visualization. These techniques can help calm your nerves and boost your confidence.",
-  "educational_strategy_used": "Intensive Interaction",
-  "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
+    "prompt": "I'm feeling anxious about my upcoming presentation. How can I manage my nerves?",
+    "response": "Let's practice relaxation techniques together, such as deep breathing exercises or visualization. These techniques can help calm your nerves and boost your confidence.",
+    "educational_strategy_used": "Intensive Interaction",
+    "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
   },
   {
-  "prompt": "I want to make new friends, but I'm not sure how to start a conversation. Can you give me some tips?",
-  "response": "Let's role-play different social scenarios together. This will help you practice initiating conversations and responding appropriately to others.",
-  "educational_strategy_used": "PECS",
-  "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
+    "prompt": "I want to make new friends, but I'm not sure how to start a conversation. Can you give me some tips?",
+    "response": "Let's role-play different social scenarios together. This will help you practice initiating conversations and responding appropriately to others.",
+    "educational_strategy_used": "PECS",
+    "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
   },
   {
-  "prompt": "I'm struggling to understand the social cues in class. How can I improve my social skills?",
-  "response": "Let's work on recognizing and interpreting facial expressions and body language. We can practice social interactions through role-playing or by analyzing real-life situations.",
-  "educational_strategy_used": "TEACCH",
-  "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
+    "prompt": "I'm struggling to understand the social cues in class. How can I improve my social skills?",
+    "response": "Let's work on recognizing and interpreting facial expressions and body language. We can practice social interactions through role-playing or by analyzing real-life situations.",
+    "educational_strategy_used": "TEACCH",
+    "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
   },
   {
-  "prompt": "I'm feeling frustrated because I can't express myself clearly. How can I improve my communication skills?",
-  "response": "Let's explore different communication methods that might work better for you. We can try using visual aids, writing, or even technology to help you express your thoughts and feelings.",
-  "educational_strategy_used": "DIR/Floortime",
-  "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
+    "prompt": "I'm feeling frustrated because I can't express myself clearly. How can I improve my communication skills?",
+    "response": "Let's explore different communication methods that might work better for you. We can try using visual aids, writing, or even technology to help you express your thoughts and feelings.",
+    "educational_strategy_used": "DIR/Floortime",
+    "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
   },
   {
-  "prompt": "I'm having trouble staying focused in class. How can I improve my attention span?",
-  "response": "Let's create a structured learning environment that minimizes distractions and helps you stay engaged. We can also explore different learning activities that match your interests and learning style.",
-  "educational_strategy_used": "Intensive Interaction",
-  "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
+    "prompt": "I'm having trouble staying focused in class. How can I improve my attention span?",
+    "response": "Let's create a structured learning environment that minimizes distractions and helps you stay engaged. We can also explore different learning activities that match your interests and learning style.",
+    "educational_strategy_used": "Intensive Interaction",
+    "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
   },
   {
-  "prompt": "I'm feeling overwhelmed by the amount of homework. How can I manage my time better?",
-  "response": "Let's break down your homework into smaller, more manageable tasks. We can create a schedule that allocates specific times for completing each task, helping you stay organized and reduce stress.",
-  "educational_strategy_used": "PECS",
-  "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
+    "prompt": "I'm feeling overwhelmed by the amount of homework. How can I manage my time better?",
+    "response": "Let's break down your homework into smaller, more manageable tasks. We can create a schedule that allocates specific times for completing each task, helping you stay organized and reduce stress.",
+    "educational_strategy_used": "PECS",
+    "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
   },
   {
-  "prompt": "I'm struggling to understand the concepts in my science class. Can you help me find a different way to learn them?",
-  "response": "Let's explore hands-on activities and demonstrations that can make the concepts more concrete and relatable. We can also use visual aids and diagrams to help you visualize the concepts.",
-  "educational_strategy_used": "TEACCH",
-  "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
+    "prompt": "I'm struggling to understand the concepts in my science class. Can you help me find a different way to learn them?",
+    "response": "Let's explore hands-on activities and demonstrations that can make the concepts more concrete and relatable. We can also use visual aids and diagrams to help you visualize the concepts.",
+    "educational_strategy_used": "TEACCH",
+    "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
   },
   {
-  "prompt": "I'm feeling anxious about my upcoming test. How can I manage my anxiety?",
-  "response": "Let's practice relaxation techniques together, such as deep breathing exercises or visualization. We can also create a study schedule that helps you break down the material into smaller, more manageable chunks.",
-  "educational_strategy_used": "DIR/Floortime",
-  "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
+    "prompt": "I'm feeling anxious about my upcoming test. How can I manage my anxiety?",
+    "response": "Let's practice relaxation techniques together, such as deep breathing exercises or visualization. We can also create a study schedule that helps you break down the material into smaller, more manageable chunks.",
+    "educational_strategy_used": "DIR/Floortime",
+    "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
   },
   {
-  "prompt": "I'm having trouble making friends at school. How can I improve my social skills?",
-  "response": "Let's work on building your social skills by practicing different social scenarios together. We can also explore joining clubs or activities that align with your interests, which can provide opportunities to meet new people.",
-  "educational_strategy_used": "Intensive Interaction",
-  "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
+    "prompt": "I'm having trouble making friends at school. How can I improve my social skills?",
+    "response": "Let's work on building your social skills by practicing different social scenarios together. We can also explore joining clubs or activities that align with your interests, which can provide opportunities to meet new people.",
+    "educational_strategy_used": "Intensive Interaction",
+    "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
   },
   {
-  "prompt": "I'm feeling overwhelmed by the noise and activity in the classroom. How can I manage my sensory sensitivities?",
-  "response": "Let's explore different sensory strategies that can help you manage your sensitivities. We can try using earplugs or headphones to reduce noise, or find a quiet space in the classroom where you can focus.",
-  "educational_strategy_used": "PECS",
-  "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
+    "prompt": "I'm feeling overwhelmed by the noise and activity in the classroom. How can I manage my sensory sensitivities?",
+    "response": "Let's explore different sensory strategies that can help you manage your sensitivities. We can try using earplugs or headphones to reduce noise, or find a quiet space in the classroom where you can focus.",
+    "educational_strategy_used": "PECS",
+    "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
   },
   {
-  "prompt": "I'm struggling to understand the math concepts in class. Can you help me find a different way to learn them?",
-  "response": "Let's explore different learning methods that might work better for you. We can try using manipulatives or visual aids to make the concepts more concrete, or break down the problems into smaller, more manageable steps.",
-  "educational_strategy_used": "TEACCH",
-  "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
+    "prompt": "I'm struggling to understand the math concepts in class. Can you help me find a different way to learn them?",
+    "response": "Let's explore different learning methods that might work better for you. We can try using manipulatives or visual aids to make the concepts more concrete, or break down the problems into smaller, more manageable steps.",
+    "educational_strategy_used": "TEACCH",
+    "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
   },
   {
-  "prompt": "I'm feeling frustrated because I can't express myself clearly. How can I improve my communication skills?",
-  "response": "Let's work on developing your communication skills by practicing different ways to express yourself. We can try using visual aids, writing, or even technology to help you communicate your thoughts and feelings.",
-  "educational_strategy_used": "DIR/Floortime",
-  "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
+    "prompt": "I'm feeling frustrated because I can't express myself clearly. How can I improve my communication skills?",
+    "response": "Let's work on developing your communication skills by practicing different ways to express yourself. We can try using visual aids, writing, or even technology to help you communicate your thoughts and feelings.",
+    "educational_strategy_used": "DIR/Floortime",
+    "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
   },
   {
-  "prompt": "I'm having trouble staying focused in class. How can I improve my attention span?",
-  "response": "Let's explore different strategies to help you improve your attention span. We can try using fidget toys or movement breaks to help you stay engaged, or create a structured learning environment that minimizes distractions.",
-  "educational_strategy_used": "Intensive Interaction",
-  "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
+    "prompt": "I'm having trouble staying focused in class. How can I improve my attention span?",
+    "response": "Let's explore different strategies to help you improve your attention span. We can try using fidget toys or movement breaks to help you stay engaged, or create a structured learning environment that minimizes distractions.",
+    "educational_strategy_used": "Intensive Interaction",
+    "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
   },
   {
-  "prompt": "I'm feeling overwhelmed by the amount of homework. How can I manage my time better?",
-  "response": "Let's create a structured study schedule that helps you break down your homework into smaller, more manageable tasks. We can also explore different time management techniques to help you stay organized and reduce stress.",
-  "educational_strategy_used": "PECS",
-  "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
+    "prompt": "I'm feeling overwhelmed by the amount of homework. How can I manage my time better?",
+    "response": "Let's create a structured study schedule that helps you break down your homework into smaller, more manageable tasks. We can also explore different time management techniques to help you stay organized and reduce stress.",
+    "educational_strategy_used": "PECS",
+    "application": "Utilizing Picture Exchange Communication System for autistic children, enabling them to communicate their needs and wants through picture cards."
   },
   {
-  "prompt": "I'm struggling to understand the concepts in my science class. Can you help me find a different way to learn them?",
-  "response": "Let's explore hands-on activities and demonstrations that can make the concepts more concrete and relatable. We can also use visual aids and diagrams to help you visualize the concepts.",
-  "educational_strategy_used": "TEACCH",
-  "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
+    "prompt": "I'm struggling to understand the concepts in my science class. Can you help me find a different way to learn them?",
+    "response": "Let's explore hands-on activities and demonstrations that can make the concepts more concrete and relatable. We can also use visual aids and diagrams to help you visualize the concepts.",
+    "educational_strategy_used": "TEACCH",
+    "application": "Providing structure and visual schedules for autistic children, enhancing their ability to learn and participate in daily activities."
   },
   {
-  "prompt": "I'm feeling anxious about my upcoming test. How can I manage my anxiety?",
-  "response": "Let's practice relaxation techniques together, such as deep breathing exercises or visualization. We can also create a study schedule that helps you break down the material into smaller, more manageable chunks.",
-  "educational_strategy_used": "DIR/Floortime",
-  "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
+    "prompt": "I'm feeling anxious about my upcoming test. How can I manage my anxiety?",
+    "response": "Let's practice relaxation techniques together, such as deep breathing exercises or visualization. We can also create a study schedule that helps you break down the material into smaller, more manageable chunks.",
+    "educational_strategy_used": "DIR/Floortime",
+    "application": "Sensory and emotional regulation for autistic children, facilitating social interaction and imaginative play."
   },
   {
-  "prompt": "I'm having trouble making friends at school. How can I improve my social skills?",
-  "response": "Let's work on building your social skills by practicing different social scenarios together. We can also explore joining clubs or activities that align with your interests, which can provide opportunities to meet new people.",
-  "educational_strategy_used": "Intensive Interaction",
-  "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
+    "prompt": "I'm having trouble making friends at school. How can I improve my social skills?",
+    "response": "Let's work on building your social skills by practicing different social scenarios together. We can also explore joining clubs or activities that align with your interests, which can provide opportunities to meet new people.",
+    "educational_strategy_used": "Intensive Interaction",
+    "application": "Engaging autistic children through focused attention and active participation, promoting communication and social skills development."
   },
   {
     "prompt": "I'm struggling to understand this math problem. Can you break it down into smaller steps?",
