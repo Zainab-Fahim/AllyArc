@@ -1,6 +1,6 @@
 [
   {
-    "text": "/n<main class='main-content container'>/n  <div>/n    <div id='block-particle-content' data-block-plugin-id='system_main_block'>/n      <div class='resources-page'>/n        <div class='resources-page__inner'>/n          <div class='resources-page__left'>/n            <a class='breadcrumb' href='#'>back</a>/n            <h2 class='resources-page__title '>School Community Tool Kit</h2>/n            <div class='basic-block'>/n              <div><p>This kit provides helpful information about students with autism to promote understanding and acceptance at school. It includes tools and strategies to increase learning for all members of the school community.</p>/n              <h3>The School Community Tool Kit is broken down into sections:</h3>/n",
+    "text": "\n<main class='main-content container'>\n  <div>\n    <div id='block-particle-content' data-block-plugin-id='system_main_block'>\n      <div class='resources-page'>\n        <div class='resources-page__inner'>\n          <div class='resources-page__left'>\n            <a class='breadcrumb' href='#'>back</a>\n            <h2 class='resources-page__title '>School Community Tool Kit</h2>\n            <div class='basic-block'>\n              <div><p>This kit provides helpful information about students with autism to promote understanding and acceptance at school. It includes tools and strategies to increase learning for all members of the school community.</p>\n              <h3>The School Community Tool Kit is broken down into sections:</h3>\n",
     "spans": [
       {
         "start": 292,
@@ -8,10 +8,9 @@
         "label": 1
       }
     ]
-
   },
   {
-    "text": "              <ul><li><strong>About the School Community Tool Kit</strong>/n                <ul>/n                  <li>Information about the resources included, a section on how to use the tool kit, a note to families and caregivers, an 'About Me' profile form, and more.</li>/n                </ul>/n              </li>/n              <li><strong>About Autism</strong>/n                <ul><li>In addition to general information about autism, this section includes information about:</li>/n                  <li>Social symptoms</li>/n                  <li>Physical and medical issues</li>/n                  <li>Additional challenges</li>/n                  <li>Unique abilities that may accompany autism</li>/n                </ul>/n              </li>/n",
+    "text": "              <ul><li><strong>About the School Community Tool Kit</strong>\n                <ul>\n                  <li>Information about the resources included, a section on how to use the tool kit, a note to families and caregivers, an 'About Me' profile form, and more.</li>\n                </ul>\n              </li>\n              <li><strong>About Autism</strong>\n                <ul><li>In addition to general information about autism, this section includes information about:</li>\n                  <li>Social symptoms</li>\n                  <li>Physical and medical issues</li>\n                  <li>Additional challenges</li>\n                  <li>Unique abilities that may accompany autism</li>\n                </ul>\n              </li>\n",
     "spans": [
       {
         "start": 261,
@@ -21,8 +20,8 @@
     ]
   },
   {
-    "text": "              <li><strong>The School Community</strong>/n                <ul>/n                  <li>Specific resources and information for:</li>/n                  <li>Classmates</li>/n                  <li>Teachers</li>/n                  <li>School administrators</li>/n                  <li>Paraprofessionals</li>/n                  <li>Bus drivers/transportation supervisors</li>/n                  <li>Custodial staff</li>/n                  <li>Lunch and recess aides</li>/n                  <li>Office staff</li>/n                  <li>Peers</li>/n                  <li>Nurses</li>/n                  <li>Security officers</li>/n                </ul>/n              </li>/n              <li><strong>Educating Students with Autism</strong>/n                <ul>/n",
-    "spans":  [
+    "text": "              <li><strong>The School Community</strong>\n                <ul>\n                  <li>Specific resources and information for:</li>\n                  <li>Classmates</li>\n                  <li>Teachers</li>\n                  <li>School administrators</li>\n                  <li>Paraprofessionals</li>\n                  <li>Bus drivers/transportation supervisors</li>\n                  <li>Custodial staff</li>\n                  <li>Lunch and recess aides</li>\n                  <li>Office staff</li>\n                  <li>Peers</li>\n                  <li>Nurses</li>\n                  <li>Security officers</li>\n                </ul>\n              </li>\n              <li><strong>Educating Students with Autism</strong>\n                <ul>\n",
+    "spans": [
       {
         "start": 56,
         "end": 88,
@@ -51,8 +50,8 @@
     ]
   },
   {
-    "text": "                  <li>Topics include:</li>/n                  <li>The rights of students with autism</li>/n                  <li>Instructional methods in teaching students</li>/n                  <li>Assistive technologies</li>/n                  <li>Therapies used</li>/n                  <li>Ideas for a team approach</li>/n                </ul>/n              </li>/n              <li><strong>Supporting Learning in the Student with Autism</strong>/n                <ul>/n                  <li>Topics include:</li>/n                  <li>Supporting communication</li>/n                  <li>Organizational and sensory needs</li>/n                  <li>Improving social interaction and development</li>/n                  <li>Ideas for preventing behavior</li>/n                </ul>/n              </li>/n",
-    "spans":  [
+    "text": "                  <li>Topics include:</li>\n                  <li>The rights of students with autism</li>\n                  <li>Instructional methods in teaching students</li>\n                  <li>Assistive technologies</li>\n                  <li>Therapies used</li>\n                  <li>Ideas for a team approach</li>\n                </ul>\n              </li>\n              <li><strong>Supporting Learning in the Student with Autism</strong>\n                <ul>\n                  <li>Topics include:</li>\n                  <li>Supporting communication</li>\n                  <li>Organizational and sensory needs</li>\n                  <li>Improving social interaction and development</li>\n                  <li>Ideas for preventing behavior</li>\n                </ul>\n              </li>\n",
+    "spans": [
       {
         "start": 171,
         "end": 341,
@@ -61,8 +60,8 @@
     ]
   },
   {
-    "text": "              <li><strong>Web, Print and Video Resources</strong>/n                <ul>/n                  <li>A list of various resources for all members of the school community.</li>/n                </ul>/n              </li>/n              <li><strong>Appendix</strong>/n                <ul>/n                  <li>Insights, strategies, assessments, handbooks, and lots more!</li>/n                </ul>/n              </li>/n            </ul>/n            <p><em>This tool kit is </em><em>not intended to be a curriculum for special education for students on the autism spectrum, but rather a support for the general education and administrative school staff who interact with students with autism in various capacities. However, it is envisioned that this tool kit will provide valuable information and resources that can be employed by special education and administrative staff in their efforts to plan for and support students in general education environments and involvement in the school community as a whole.</em></p>/n",
-    "spans":  [
+    "text": "              <li><strong>Web, Print and Video Resources</strong>\n                <ul>\n                  <li>A list of various resources for all members of the school community.</li>\n                </ul>\n              </li>\n              <li><strong>Appendix</strong>\n                <ul>\n                  <li>Insights, strategies, assessments, handbooks, and lots more!</li>\n                </ul>\n              </li>\n            </ul>\n            <p><em>This tool kit is </em><em>not intended to be a curriculum for special education for students on the autism spectrum, but rather a support for the general education and administrative school staff who interact with students with autism in various capacities. However, it is envisioned that this tool kit will provide valuable information and resources that can be employed by special education and administrative staff in their efforts to plan for and support students in general education environments and involvement in the school community as a whole.</em></p>\n",
+    "spans": [
       {
         "start": 717,
         "end": 845,
@@ -71,8 +70,8 @@
     ]
   },
   {
-    "text" : "            <p>/n              <strong><a href='https://www.autismspeaks.org/sites/default/files/school-community-spanish.pdf'>Haga clic aquÃ­ para acceder este recurso en espaÃ±ol</a>.</strong>/n            </p>/n          </div>/n        </div>/n        <h3 class='h4'>Complete the form below to access the Tool Kit</h3>/n      </div>/n      </div>/n    </div>/n  </div>/n</main>/n",
-    "spans" : []
+    "text": "            <p>\n              <strong><a href='https://www.autismspeaks.org/sites/default/files/school-community-spanish.pdf'>Haga clic aquÃ­ para acceder este recurso en espaÃ±ol</a>.</strong>\n            </p>\n          </div>\n        </div>\n        <h3 class='h4'>Complete the form below to access the Tool Kit</h3>\n      </div>\n      </div>\n    </div>\n  </div>\n</main>\n",
+    "spans": []
   },
   {
     "text": "<main class=\"main-content container\">\n  <div>\n      <div data-drupal-messages-fallback class=\"hidden\"></div>\n  </div>",
@@ -83,7 +82,7 @@
     "spans": []
   },
   {
-    "text": "<div>\n                      <p>Every person is unique, but sometimes our differences are not understood or accepted by others. A lack of empathy and understanding can lead to emotional or physical bullying that can be extremely damaging to an individual\u2019s mental health and well-being. This is especially true for people on the spectrum\u2014<a href=\"https://jamanetwork.com/journals/jamapediatrics/fullarticle/2792743\">over 60% of autistic children and young adults experience bullying</a>. Research shows that high school students, school-age children with special healthcare needs and those from disadvantaged neighborhoods are at highest risk.</p>",
+    "text": "<div>\n                      <p>Every person is unique, but sometimes our differences are not understood or accepted by others. A lack of empathy and understanding can lead to emotional or physical bullying that can be extremely damaging to an individual’s mental health and well-being. This is especially true for people on the spectrum—<a href=\"https://jamanetwork.com/journals/jamapediatrics/fullarticle/2792743\">over 60% of autistic children and young adults experience bullying</a>. Research shows that high school students, school-age children with special healthcare needs and those from disadvantaged neighborhoods are at highest risk.</p>",
     "spans": [
       {
         "start": 287,
